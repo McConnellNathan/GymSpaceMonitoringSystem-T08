@@ -1,4 +1,4 @@
-# Gym-Space-Monitoring-System
+# AI-Hazard-Analyzer
 
 ## Maven Set Up (Please do this part to prevent package/import issues)
 In order to get the Gemini API pieces working, I had to set up the project as a
